@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.score {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.buttons button {
+    background: #fff;
+    border: 2px solid #333;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.buttons button:hover {
+    background: #ddd;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
